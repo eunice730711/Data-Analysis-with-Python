@@ -1,0 +1,4 @@
+Lesson 1:
+Softmax:
+when multiply by 10, then probabilities get close to either 0.0 or 1.0
+when divide by 10, then probabilities get close to the uniform distribution
